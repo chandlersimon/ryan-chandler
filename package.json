@@ -1,0 +1,9 @@
+{
+  "name": "webflow-search-function",
+  "version": "1.0.0",
+  "description": "Serverless function for Webflow search",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
